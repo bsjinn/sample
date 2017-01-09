@@ -18,9 +18,9 @@ public class MainActivity extends AppCompatActivity {
 
     CallbackManager callbackManager;
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState)
+{
         super.onCreate(savedInstanceState);
-
         FacebookSdk.sdkInitialize(getApplicationContext());
         setContentView(R.layout.activity_main);
 
@@ -50,3 +50,4 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
+//testtest
