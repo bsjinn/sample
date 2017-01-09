@@ -1,5 +1,4 @@
 
-//git test
 package org.androidtown.wall;
 
 import android.content.Intent;
@@ -51,6 +50,3 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
-//master test
-//sj test
-//test 중입니당
